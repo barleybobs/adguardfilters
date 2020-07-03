@@ -1,2 +1,2 @@
-||youtube.com^
-||m.youtube.com^
+||youtube.com^$important
+||m.youtube.com^$important
