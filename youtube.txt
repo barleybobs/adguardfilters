@@ -1,2 +1,2 @@
-216.58.211.174 youtube.com
-216.58.211.174 m.youtube.com
+||youtube.com^
+||m.youtube.com^
