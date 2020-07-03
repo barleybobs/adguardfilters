@@ -1,2 +1,2 @@
-ebay.co.uk youtube.com
-ebay.co.uk m.youtube.com
+216.58.211.174 youtube.com
+216.58.211.174 m.youtube.com
